@@ -8,6 +8,8 @@ Load the web page in any browser
 Key in the numbers of your choice in the space
 Click the "Your Answer" button to view your Answer
 Texts will be displayed of the type of Triangle
+## Live Demo
+https://github.com/muigai20/triangle-tracker2.git
 ##BDD
   Behaviour          |    Input   |  Output
   .................  |........... |............
