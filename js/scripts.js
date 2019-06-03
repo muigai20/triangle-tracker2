@@ -13,7 +13,7 @@ if(side1+side2>side3 && side2+side3>side1 && side1+side3>side2){
   else{
     display.textContent='This is a Scalene Triangle: No sides are equal!';
   }
-}function refresh(){
+}function refresh
   var side1=parseInt(document.getElementById('side1').value);
   var side2=parseInt(document.getElementById('side2').value);
   var side3=parseInt(document.getElementById('side3').value);
