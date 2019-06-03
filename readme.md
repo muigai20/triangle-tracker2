@@ -11,12 +11,11 @@ Texts will be displayed of the type of Triangle
 ## Live Demo
 https://github.com/muigai20/triangle-tracker2.git
 ##BDD
-  Behaviour           |    Input    |  Output
-  .................   |...........  |............
-  All value are equal |  [4,4,4]    | Equilateral
-  Two value are same  |  [2,2,4]    | Isosceles
-  All side not same   |   [4,3,2]   |  Scalene
-## Known Bugs
+| Behaviour     |    Input          |    Output     |
+| :---          |     :---:         |    :---:|
+| All side same |     [4,4,4]       |  Equilateral  |
+| Two side same |      [2,2,3]      |  Isosceles    |
+ | No side same |      [2,3,4]      |  Scalene      |
 Currently there are no known Bugs
 ## Technologies Used
 HTML
